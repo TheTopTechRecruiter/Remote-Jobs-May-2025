@@ -1,21 +1,34 @@
-# Remote-Jobs-May-2025
-Jobs May 2025
-🚀 Join Sparq: Exciting Opportunities for AWS Platform Engineer & Java Developers
+🚨 Remote Tech Talent — Your Next Career Move Might Be Here 👀
 
-At Sparq, we are dedicated to crafting robust, scalable platforms that drive innovation at an enterprise level. We are seeking talented engineers who are enthusiastic about precision and creating a significant impact.
+What if your next job didn’t just pay the bills — but actually energized you?
 
-🔧 Explore Our Open Positions:
+At Team Sparq, we’re not just hiring. We’re building a remote-first culture for engineers, product minds, and tech professionals who thrive in autonomy, collaboration, and real impact.
 
-**Principal AWS Platform Engineer** 
-- Work locations: Hybrid/Remote options in Dallas, Minneapolis, Atlanta, or Miramar, FL
-- Proficiency in AWS services like EC2, ECS, Lambda, Cognito (for CIAM), and CloudWatch.
-- Experience with Terraform
+🔍 We’re looking for:
 
-**Java Developers (Senior to Principal)** 
-- Skills in RESTful APIs, Java (17 preferred), Spring Boot (3 preferred), Tomcat, and testing frameworks (e.g., Postman).
-- Familiarity with Atlassian, Jenkins, and Splunk is preferred.
+Software Engineers (Backend, Frontend, Full Stack)
 
-If you are eager to shape the future of digital platforms through engineering, let's connect.
+DevOps / Cloud Experts
+
+UX/UI Designers
+
+Product Managers
+
+QA/Test Automation pros
+...and more.
+
+🌍 100% Remote
+🌱 Growth-minded team
+🧠 Meaningful work
+❤️ Human-first culture
+
+💻 Explore open roles: https://www.teamsparq.com/careers/
+
+👉 If you're in tech and exploring your next remote opportunity, check it out.
+💬 Know someone who should see this? Tag them below 👇
+🔁 Repost to help your network land something great.
+
+#remotework #techjobs #nowhiring #softwareengineer #productdesign #productmanagement #remoteteam #careerchange #devjobs #startuplife #engineeringcareers #jobsearch
 
 👉 Apply now or refer a talented individual: email resumes to cameron.mabb@teamsparq.com
 
