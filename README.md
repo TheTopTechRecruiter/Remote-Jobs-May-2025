@@ -1,26 +1,31 @@
-🚨 Remote Tech Talent — Your Next Career Move Might Be Here 👀
+We’re not just building careers, we’re building impact. If you’re passionate about solving complex problems, scaling tech in high-growth environments, and being part of a team that values inclusion, mentorship, and hard work… we want to meet you.
 
-What if your next job didn’t just pay the bills — but actually energized you?
+🔍 Now Hiring:
 
-At Team Sparq, we’re not just hiring. We’re building a remote-first culture for engineers, product minds, and tech professionals who thrive in autonomy, collaboration, and real impact.
+🧠 Senior Data Engineer (Snowflake/dbt) (Mexico, Costa Rica, Uruguay, Colombia) 
 
-🔍 We’re looking for:
+You’ll build scalable, enterprise-grade data pipelines that handle billions of rows, optimizing Snowflake performance and shaping data strategy across fast-moving clients.
 
-Software Engineers (Backend, Frontend, Full Stack)
+ ✅ Deep Snowflake & dbt expertise
+ ✅ SQL/Python fluency
+ ✅ A love for performance tuning and real-world scale
 
-DevOps / Cloud Experts
+☁️ Senior Azure Engineer (Mexico, Costa Rica, Uruguay, Colombia)
 
-UX/UI Designers
+ Join our cloud practice, working on modern, scalable Azure/Kubernetes environments. You’ll support infrastructure-as-code, CI/CD automation, and client-facing cloud adoption.
 
-Product Managers
+ ✅ Azure + Kubernetes pro
+ ✅ Infra-as-code (Terraform, Bicep, ARM)
+ ✅ Consulting mindset with DevOps chops
 
-QA/Test Automation pros
-...and more.
+💡 At Sparq, we offer:
 
-🌍 100% Remote
-🌱 Growth-minded team
-🧠 Meaningful work
-❤️ Human-first culture
+- Remote-first flexibility 🌍
+- Career advancement & certification paths 📈
+- Inclusive, collaborative culture 🤝
+- Exposure to cutting-edge tools in cloud, data, and DevOps
+
+📩 If you or someone in your network is looking for their next big challenge, check out the full roles below:
 
 💻 Explore open roles: https://www.teamsparq.com/careers/
 
